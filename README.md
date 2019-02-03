@@ -5,3 +5,5 @@ App para creación y manejo de notas.
 
 * [Node.js]
 * [Npm]
+* [JSON]
+
